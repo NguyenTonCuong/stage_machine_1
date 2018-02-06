@@ -1,0 +1,27 @@
+Dependencies for Project 'State_machine', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5916DEBD)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\ti\TivaWare_C_Series-2.1.3.156 -I ..\Lich_am_duong-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="523" -D_RTE_ -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x57F614C8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x57F614C8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F614C8)
+I (C:\ti\TivaWare_C_Series-2.1.3.156\inc\hw_memmap.h)(0x58A9E312)
+I (C:\ti\TivaWare_C_Series-2.1.3.156\driverlib\pin_map.h)(0x58A9E2E5)
+I (C:\ti\TivaWare_C_Series-2.1.3.156\inc\hw_types.h)(0x58A9E312)
+I (C:\ti\TivaWare_C_Series-2.1.3.156\driverlib\gpio.h)(0x58A9E2E5)
+I (C:\ti\TivaWare_C_Series-2.1.3.156\inc\hw_gpio.h)(0x58A9E312)
+I (C:\ti\TivaWare_C_Series-2.1.3.156\driverlib\sysctl.h)(0x58A9E2E5)
+I (C:\ti\TivaWare_C_Series-2.1.3.156\inc\tm4c123gh6pm.h)(0x58A9E312)
+I (C:\ti\TivaWare_C_Series-2.1.3.156\driverlib\systick.h)(0x58A9E2E5)
+I (LCD5110.h)(0x58F715BE)
+I (Lich.h)(0x5913C882)
+F (.\LCD5110.h)(0x58F715BE)()
+F (.\Lich.h)(0x5913C882)()
+F (C:\ti\TivaWare_C_Series-2.1.3.156\driverlib\rvmdk\driverlib.lib)(0x58A9E2E5)()
+F (RTE\Device\TM4C123GH6PM\startup_TM4C123.s)(0x51B76296)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 523" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C123GH6PM\system_TM4C123.c)(0x550AE46A)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I C:\ti\TivaWare_C_Series-2.1.3.156 -I ..\Lich_am_duong-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="523" -D_RTE_ -DTM4C123GH6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F614C8)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530EACA6)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x550F9BDC)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h)(0x5898579A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h)(0x5898579A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h)(0x5898579A)
+I (C:\Keil_v5\ARM\PACK\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B69DB6)
